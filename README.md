@@ -1,8 +1,7 @@
 # Steps
 [] fork and clone project
 [] run `npm i` (no need to run `npm i redux react-redux redux-thunk` b/c already installed)
-[]
-
+[] Create our first action and reducer. Our action will take data to update our products list to the product of our choice with a type and payload, while our reducer will be receiving the information and return the payload. In our action folder, we will create updateProducts.js and in our reducers folder we will create productListReducer.js.
 
 # Getting Started with Create React App
 
